@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642429269473",
+    "project_id": "mytest-auth-d2adb",
+    "storage_bucket": "mytest-auth-d2adb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642429269473:android:8bae2571a55f92ab644ea0",
+        "android_client_info": {
+          "package_name": "com.ianfrost.example.example_simpleauth_firebaseauth_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642429269473-gn4n6sv6t2p56luonsliaet2nnettprs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfnkCfPYHUpNHNz7ZNWffWnuSLpoRtos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642429269473-gn4n6sv6t2p56luonsliaet2nnettprs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
